@@ -11,9 +11,9 @@ Forkify is a recipe finding web application that uses data from the Forkify API.
 4. **Source Links**: Directs users to the source site for detailed recipe procedures.
 
 ## Future Enhancements ⌛⌛
-1 **Add Recipe**: Allow users to Add recipe.
-2 **Bookmark** :User can Bookmark the favorite recipe.
-3 **Serving Size Customization**: Users can choose the serving size, and the app adjusts the ingredient quantities accordingly.
+1. **Add Recipe**: Allow users to Add recipe.
+2. **Bookmark** :User can Bookmark the favorite recipe.
+3. **Serving Size Customization**: Users can choose the serving size, and the app adjusts the ingredient quantities accordingly.
 
 ## Installation 🖥️
 Clone this repository to your local machine. Install any necessary dependencies (if applicable). Run the project locally.
